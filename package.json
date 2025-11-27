@@ -2,7 +2,7 @@
   "name": "doosan-robotics-clone",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/bhher/dosan.git",
+  "homepage": "https://github.com/bhher/dosan/",
   "type": "module",
   "scripts": {
     "dev": "vite",
